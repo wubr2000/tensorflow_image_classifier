@@ -1,0 +1,9 @@
+bathroom
+living room
+closet
+swimming pool
+dining room
+exterior
+bedroom
+fireplace
+kitchen
