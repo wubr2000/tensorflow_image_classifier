@@ -1,4 +1,4 @@
-# Image Classifer for Real Estate Photos using Tensorflow
+# Real Estate Image Classifer using Tensorflow
 
 I followed [this O'Reilly tutorial](https://www.oreilly.com/learning/tensorflow-for-poets) to train an image classifier for real estate photos using Tensorflow.
 
