@@ -1,0 +1,9 @@
+bathroom
+living room
+unknown
+swimming pool
+street view
+dining room
+exterior
+bedroom
+kitchen
