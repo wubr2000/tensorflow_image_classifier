@@ -1,0 +1,8 @@
+bathroom
+living room
+swimming pool
+street view
+dining room
+exterior
+bedroom
+kitchen
